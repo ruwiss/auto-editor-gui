@@ -14,7 +14,9 @@ PowerShell'i proje klasöründe açın ve bağımlılığı kurun:
 py -m pip install -r requirements.txt
 ```
 
-Kesim önizlemesinde ses dalgası ve tahmini süre hesabı için `ffmpeg` ve `ffprobe` PATH içinde olmalıdır. `auto-editor` export için yine Python paketi kullanılır.
+Kesim önizlemesinde ses dalgası ve tahmini süre hesabı için `ffmpeg` ve `ffprobe` PATH içinde olmalıdır. FFmpeg indirme sayfası: https://www.ffmpeg.org/download.html
+
+`auto-editor` export için Python paketi kullanılır.
 
 ## Çalıştırma
 
